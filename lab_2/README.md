@@ -3,7 +3,7 @@
 
 ## Задание | Вариант - 320473 
 
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8be152a8-99c0-4e25-b433-1d02fab3612e">
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/8be152a8-99c0-4e25-b433-1d02fab3612e">
 
 Сконфигурировать в своём домашнем каталоге репозитории svn и git и загрузить в них начальную ревизию файлов с исходными кодами (в соответствии с выданным вариантом). <br />
 
